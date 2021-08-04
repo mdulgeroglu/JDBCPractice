@@ -1,3 +1,8 @@
+// Muhammed Dulgeroglu
+// DB_Practice.java
+// August 1, 2021
+// Practicing with JDBC connection using connection from DB_Utility.java
+
 package JDBCPracticeP;
 
 import JDBCPracticeP.DB_Utility;

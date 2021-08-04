@@ -1,3 +1,15 @@
+// Muhammed Dulgeroglu
+// DB_Utility.java
+// August 1, 2021
+// Initializing DB connection in utility file to clean up main
+
+// August 4, 2021
+//		Added colCount() 			- uses ResultSetMetaData to get # of cols
+//            maxColCount() 		- returns longest col length
+//            displayAllRows()		- prints all rows & cols
+//            displayByColAndRow()	- returns record as string at given row & col
+//            displayRowAsList()	- returns all rows & cols as List
+
 package JDBCPracticeP;
 
 import java.sql.*;

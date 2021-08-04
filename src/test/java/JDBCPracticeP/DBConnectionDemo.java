@@ -1,3 +1,8 @@
+// Muhammed Dulgeroglu
+// DBConnectionDemo.java
+// August 1, 2021
+// Testing use of Connection, Statement, and ResultSet
+
 package JDBCPracticeP;
 
 import org.testng.annotations.Test;
